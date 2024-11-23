@@ -11,6 +11,6 @@ SCT Show Count and Tell” (SCT) an architecture that tackles referring expressi
 
 SCT relies on [Paligemma](https://huggingface.co/docs/transformers/main/model_doc/paligemma#transformers.PaliGemmaForConditionalGeneration), we use the original pretrained checkpoint 0n 224x224 resolution [PaliGemma-PT-224](https://huggingface.co/google/paligemma-3b-pt-224). Our trained model can be downloaded from:
 
-| Hugging Face Model  | Checkpoint |
-| ------------- | ------------- |
+| Hugging Face Model  |
+| ------------- |
 | [SCT-PaliGemma-224](Daromog/paligemma-cord-demo-rand-50epo)
