@@ -24,11 +24,11 @@ from lightning.pytorch.callbacks.early_stopping import EarlyStopping
 
 
 
-login("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")
+login("Hugging face token goes here")
 
-data_path='/home/david.romero/CVQA/pixel/rec-8k/'
-train_json='/home/david.romero/CVQA/pixel/train_data.json'
-val_json='/home/david.romero/CVQA/pixel/val_data.json'
+data_path='rec-8k/'
+train_json='train_data.json'
+val_json='val_data.json'
         
 def preprocess_data(examples):
     prompt="detect: "
