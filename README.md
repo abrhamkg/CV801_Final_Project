@@ -13,4 +13,4 @@ SCT relies on [Paligemma](https://huggingface.co/docs/transformers/main/model_do
 
 | Hugging Face Model  | Checkpoint |
 | ------------- | ------------- |
-| [InstructBLIP-flan-t5-xl](Daromog/paligemma-cord-demo-rand-50epo)
+| [SCT-PaliGemma-224](Daromog/paligemma-cord-demo-rand-50epo)
