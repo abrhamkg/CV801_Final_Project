@@ -1,4 +1,4 @@
-# Show and Tell: A Language-Modeling Framework for Referring Expression Counting
+# Show, Count, and Tell: A Language-Modeling Framework for Referring Expression Counting
 
 This is the official repository for the Show, Count and Tell (SCT): paper available at: https://arxiv.org/pdf/2402.10698.pdf
 
