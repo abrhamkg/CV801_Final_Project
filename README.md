@@ -29,3 +29,4 @@ We test SCT in on REC-8K
 ```login("Hugging face token goes here")```
 5. Run the code<br/>
 ```python train_model.py```
+6. To evaluate the model and look at some qualitative examples run the jupyter notebook ```Evaluation.ipynb```
