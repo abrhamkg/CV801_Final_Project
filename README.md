@@ -21,7 +21,7 @@ We test SCT in on REC-8K
 1. [REC-8K](https://github.com/sydai/referring-expression-counting)
 
 ## Reproduction
-1. Install the required packages by doing <br/>
+1. Install the required packages by doing assuming you will run on CUDA 12.1 if not please check [Pytorch](https://pytorch.org/) for the appropriate version<br/>
 ```pip install -r requirements.txt```
 2. Get your Hugging Face access token for PaliGemma from [Request Access](https://huggingface.co/docs/transformers/en/model_doc/paligemma)
 3. Download and setup the dataset following the dataset link given above.
