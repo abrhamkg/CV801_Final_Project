@@ -19,3 +19,12 @@ SCT relies on [Paligemma](https://huggingface.co/docs/transformers/main/model_do
 We test SCT in on REC-8K 
 
 1. [REC-8K](https://github.com/sydai/referring-expression-counting)
+
+## Datasets
+1. Install the required packages by doing
+```pip install -r requirements.txt```
+2. Get your Hugging Face access token for PaliGemma from [Request Access](https://huggingface.co/docs/transformers/en/model_doc/paligemma)
+3. Download and setup the dataset following the dataset link given above.
+4. Update your Paligemma access token by puting it in the code line #
+5. Run the code
+```python train.py```
