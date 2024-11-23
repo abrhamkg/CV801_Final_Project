@@ -13,7 +13,7 @@ SCT relies on [Paligemma](https://huggingface.co/docs/transformers/main/model_do
 
 | Hugging Face Model  |
 | ------------- |
-| [SCT-PaliGemma-224](Daromog/paligemma-cord-demo-rand-50epo)
+| [SCT-PaliGemma-224](https://huggingface.co/Daromog/paligemma-cord-demo-rand-50epo)
 
 ## Datasets
 We test SCT in on REC-8K 
